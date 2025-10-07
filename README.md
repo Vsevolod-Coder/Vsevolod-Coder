@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Всеволод!</h1>
 
-<!--
-**Vsevolod-Coder/Vsevolod-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full-Stack Developer</b><br/>
+  Работаю с C#, .NET, JavaScript, Tailwind, Docsvision, ELMA365 и другими технологиями.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Обо мне
+- 💻 Разрабатываю корпоративные решения, веб-приложения и интеграции  
+- ⚙️ Стек: **C#**, **.NET**, **JavaScript/React**, **HTML/CSS/Tailwind**, **SQL**, **XSLT**  
+- 🧩 Работаю с **Docsvision**, **ELMA365**, автоматизацией процессов и корпоративными порталами  
+- 📚 Люблю чистый код, UI/UX и архитектуру приложений  
+
+---
+
+### 🛠️ Мой стек технологий
+
+| Бэкенд | Фронтенд | Инструменты |
+|:--|:--|:--|
+| 🟦 C# / .NET | ⚛️ React / JS / Tailwind | 🧩 Visual Studio, VS Code, Git |
+| 🐘 SQL Server | HTML / CSS | 🗄️ Docsvision, ELMA365 |
+| 🧾 XSLT, XML | | |
+
+---
+
+### 📦 Мои проекты
+
+- 🔹 [**DAOGroup_Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт с использованием React, Tailwind и интеграций  
+- 🔹 [**QrCodeGenerator**](https://github.com/VsevolodLoginov/QrCodeGenerator) — Генерация QR-кодов для карточек Docsvision  
+- 🔹 [**DV-Scripts**](https://github.com/VsevolodLoginov/DV-Scripts) — Пользовательские скрипты для Docsvision  
+
+---
+
+### 📫 Контакты
+
+- ✉️ Email: `your.email@example.com`  
+- 💬 Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)  
+- 🌐 Portfolio: [https://твойсайт.ру](https://твойсайт.ру)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VsevolodLoginov&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Фулстек-разработка — это когда фронтенд и бэкенд живут в гармонии.”</i>
+</p>
