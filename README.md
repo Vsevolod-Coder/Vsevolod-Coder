@@ -29,15 +29,13 @@
 
 - 🔹 [**DAOGroup_Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт с использованием React, Tailwind и интеграций  
 - 🔹 [**QrCodeGenerator**](https://github.com/VsevolodLoginov/QrCodeGenerator) — Генерация QR-кодов для карточек Docsvision  
-- 🔹 [**DV-Scripts**](https://github.com/VsevolodLoginov/DV-Scripts) — Пользовательские скрипты для Docsvision  
 
 ---
 
 ### 📫 Контакты
 
-- ✉️ Email: `your.email@example.com`  
-- 💬 Telegram: [@твоя_ссылка](https://t.me/твоя_ссылка)  
-- 🌐 Portfolio: [https://твойсайт.ру](https://твойсайт.ру)
+- ✉️ Email: `vsevolod.loginov@daogroup.pro`  
+- 💬 Telegram: https://t.me/ITtechnologist
 
 ---
 
