@@ -34,7 +34,7 @@
 
 ### 📫 Контакты
 
-- ✉️ Email: `vsevolod.loginov@daogroup.pro`  
+- ✉️ Email: <a href="mailto:vsevolod.loginov@daogroup.pro">vsevolod.loginov@daogroup.pro</a>  
 - 💬 Telegram: https://t.me/ITtechnologist
 
 ---
