@@ -40,11 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VsevolodLoginov&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
   <i>“Фулстек-разработка — это когда фронтенд и бэкенд живут в гармонии.”</i>
 </p>
