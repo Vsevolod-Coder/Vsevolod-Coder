@@ -19,7 +19,7 @@
 
 | Бэкенд | Фронтенд | Инструменты |
 |:--|:--|:--|
-| 🟦 C# / .NET | ⚛️ React / JS / Tailwind | 🧩 Visual Studio, VS Code, Git |
+| 🟦 C# / .NET | ⚛️ React / JavaScript / TypeScript | 🧩 Visual Studio, VS Code, Git |
 | 🐘 SQL Server | HTML / CSS | 🗄️ Docsvision, ELMA365 |
 | 🧾 XSLT, XML | | |
 
