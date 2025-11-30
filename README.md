@@ -27,10 +27,10 @@
 
 ### 📦 Мои проекты
 
-- 🔹 [**EDM Connector**](https://github.com/Vsevolod-Coder/EDMConnector) — Интеграция ШЭДО для обмена документами от мэрии КР и Docsvision (C#)
-- 🔹 [**Cloud Signature**](https://github.com/Vsevolod-Coder/CloudSignature) — Интеграция ЭЦП от УЦ Infocom и Docsvision (TS, C#, JS)
-- 🔹 [**DAOGroup Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт (JS, React, Tailwind) 
-- 🔹 [**QrCodeGenerator**](https://github.com/VsevolodLoginov/QrCodeGenerator) — Генерация QR-кодов для карточек Docsvision (C#)
+- 🔹 [**EDM Connector**](https://github.com/Vsevolod-Coder/EDMConnector) — Интеграция ШЭДО для обмена документами от мэрии КР и Docsvision **(C#)**
+- 🔹 [**Cloud Signature**](https://github.com/Vsevolod-Coder/CloudSignature) — Интеграция ЭЦП от УЦ Infocom и Docsvision **(TS, C#, JS)**
+- 🔹 [**DAOGroup Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт **(JS, React, Tailwind)**
+- 🔹 [**QrCodeGenerator**](https://github.com/VsevolodLoginov/QrCodeGenerator) — Генерация QR-кодов для карточек Docsvision **(C#)**
 
 ---
 
