@@ -27,7 +27,9 @@
 
 ### 📦 Мои проекты
 
-- 🔹 [**DAOGroup_Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт с использованием React, Tailwind и интеграций  
+- 🔹 [**EDM Connector**](https://github.com/Vsevolod-Coder/EDMConnector) — Интеграция ШЭДО для обмена документами от мэрии КР и Docsvision
+- 🔹 [**Cloud Signature**](https://github.com/Vsevolod-Coder/CloudSignature) — Интеграции ЭЦП от УЦ Infocom и Docsvision
+- 🔹 [**DAOGroup Site**](https://github.com/Vsevolod-Coder/DAOGroup_Site_VerAI) — Корпоративный сайт с использованием React, Tailwind и интеграций  
 - 🔹 [**QrCodeGenerator**](https://github.com/VsevolodLoginov/QrCodeGenerator) — Генерация QR-кодов для карточек Docsvision  
 
 ---
